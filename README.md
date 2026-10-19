@@ -31,8 +31,8 @@ I move between three disciplines and hold them all to the same standard: precise
 
 - 🏢 **Co-founder & developer of [Sakena.ir](https://sakena.ir)**
 - 🧠 **Founder of the Ferdapon trading method** — lessons published on Medium:
-  [MACD & Awesome Oscillator: the confirmation engine behind the Ferdapon method](https://medium.com/@potresa8575/macd-awesome-oscillator-the-confirmation-engine-behind-the-ferdapon-method-f06f302b9494)
-- 🏆 **1st place nationwide** — 3rd National "Rahi Sho" competition, team *Rahvar*: a smart-parking app using AI algorithms and IoT sensors that guides guests to the nearest free space.
+  [Ferdapon method](https://medium.com/@Vahid-HM)
+- 🏆 **1st place nationwide** — 3rd National "RahiSho" competition, team *Rahvar*: a smart-parking app using AI algorithms and IoT sensors that guides guests to the nearest free space.
 
 ## Tech stack
 
@@ -54,10 +54,9 @@ Persian (fluent) · Azeri (fluent) · English (intermediate)
 - ✍️ [Medium](https://medium.com/@potresa8575)
 - 📍 Sahand, East Azerbaijan, Iran
 
-<!-- Add these once you have them:
-- 🌐 Portfolio: https://YOUR-USERNAME.github.io
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
--->
+
+- 💼 LinkedIn: https://www.linkedin.com/in/vahid-hasanalipour/
+
 
 <details>
 <summary><b>به فارسی</b></summary>
