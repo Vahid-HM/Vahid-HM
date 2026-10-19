@@ -39,7 +39,7 @@ I move between three disciplines and hold them all to the same standard: precise
 | Area | Tools |
 | --- | --- |
 | **Languages** | JavaScript, TypeScript, Python, C++ |
-| **Front-end** | HTML, CSS, Tailwind, Bootstrap, React, Next.js, jQuery, Framer Motion, React Router, Axios, TanStack Query, Swiper, Three.js, Zod, React Hook Form |
+| **Front-end** | HTML, CSS, Tailwind, Bootstrap, React, Next.js, Redux, jQuery, Framer Motion, React Router, Axios, TanStack Query, Swiper, Three.js, Zod, React Hook Form |
 | **Back-end** | Node.js, Express, NestJS, Fastify, Prisma, Mongoose, Sequelize, JWT, Passport, Socket.io, Joi / Zod |
 | **Specialties** | SEO, PWA, REST API design, security, DevOps (Docker, Nginx, Linux, CI/CD, Git) |
 | **Engineering** | SolidWorks, ANSYS, fatigue analysis, FEA |
