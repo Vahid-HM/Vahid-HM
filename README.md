@@ -51,11 +51,12 @@ Persian (fluent) · Azeri (fluent) · English (intermediate)
 ## Contact
 
 - 📧 [vahid.hasanali.m@gmail.com](mailto:vahid.hasanali.m@gmail.com)
-- ✍️ [Medium](https://medium.com/@potresa8575)
+- 💼 [Linkden](https://www.linkedin.com/in/vahid-hasanalipour/)
+- ✍️ [Medium](https://medium.com/@Vahid-HM)
 - 📍 Sahand, East Azerbaijan, Iran
 
 
-- 💼 LinkedIn: https://www.linkedin.com/in/vahid-hasanalipour/
+
 
 
 <details>
